@@ -1,2 +1,6 @@
-# databricks_templates
-A repository filled with goodies for databricks. 
+# Databricks Templates
+A repository filled with goodies for databricks. Everything from structure, functions, unit tests and utility tutorials (tips & tricks)
+
+# Medallion Architecture
+
+Bronze -> Silver -> Gold
